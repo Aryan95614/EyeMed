@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 
-class Dataclass {}
+class User {
+   String name = "";
 
-class Functions {}
+}
+
+class Functions {
+
+}
